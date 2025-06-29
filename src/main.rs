@@ -12,6 +12,7 @@ fn main() {
         "You're the best boy!",
         "Good boy! Keep it up!",
         "You're being such a good boy today!",
+        "I HATE YOU!!!!"
     ];
     
     let mut rng = rand::thread_rng();
